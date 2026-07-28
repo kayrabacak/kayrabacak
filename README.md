@@ -1,6 +1,6 @@
 # Hi there, I'm Emir Kayra Bacak 👋
 
-🎓 **Computer Engineering Senior** @ Biruni University  
+🎓 **Computer Engineering Graduate** @ Biruni University  
 🤖 Specialized in **LLM Systems**, **RAG Architectures**, and **Autonomous Agents**  
 🚀 Building production-ready AI solutions with Python, FastAPI, and modern ML frameworks
 
