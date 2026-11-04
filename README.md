@@ -8,19 +8,19 @@
 
 ## 🔭 Featured Projects
 
-### [🤖 Project Apex]([https://github.com/yourusername/project-apex](https://github.com/kayrabacak/Autonomous-Multi-Agent-AI-System-Project-Apex-))
+### [🤖 Project Apex](https://github.com/kayrabacak/Autonomous-Multi-Agent-AI-System-Project-Apex-)
 Autonomous multi-agent AI system with ReAct loop, strategic planning, and long-term memory (ChromaDB)  
 `Python` `FastAPI` `Gemini` `LangChain` `React`
 
-### [📄 RAG Agent Platform]([https://github.com/yourusername/rag-agent](https://github.com/kayrabacak/RAG-Based-AI-Agent-Platform-Ondemand-Agent-))
+### [📄 RAG Agent Platform](https://github.com/kayrabacak/RAG-Based-AI-Agent-Platform-Ondemand-Agent-)
 Production-ready RAG system converting PDFs into context-aware AI agents with QR code access  
 `FastAPI` `.NET Core` `PostgreSQL (pgvector)` `LangChain` `Gemini`
 
-### [🔍 XAI SaaS Platform]([https://github.com/yourusername/xai-platform](https://github.com/kayrabacak/XAI---SaaS-Platform))
+### [🔍 XAI SaaS Platform](https://github.com/kayrabacak/XAI---SaaS-Platform)
 Full-stack explainable AI platform with SHAP analysis and automated reporting  
 `FastAPI` `Celery` `Redis` `Next.js` `PostgreSQL`
 
-### [📱 StyleSpot]([https://github.com/yourusername/stylespot](https://github.com/kayrabacak/Hair-Salon-System-StyleSpot-))
+### [📱 StyleSpot](https://github.com/kayrabacak/Hair-Salon-System-StyleSpot-)
 Location-based mobile app for barbershop discovery and real-time booking  
 `React Native` `Firebase` `Expo`
 
